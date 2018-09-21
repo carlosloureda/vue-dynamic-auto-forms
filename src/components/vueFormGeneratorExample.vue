@@ -14,7 +14,7 @@
 
 <script>
 import VueFormGenerator from "vue-form-generator";
-import modal from './modal.vue';
+import modal from './elements/modal.vue';
 import Vue from 'vue'
 Vue.use(VueFormGenerator);
 

@@ -23,6 +23,10 @@ yarn run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+## Example
+
+See the example running at [Heroku](https://vue-dynamic-forms.herokuapp.com/)
+
 ## Special thanks
 
 For the modal component I have used the modal example from [alligator](https://alligator.io/vuejs/vue-modal-component/)

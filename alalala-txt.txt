@@ -1,0 +1,16 @@
+https://github.com/vue-generators/vue-form-generator/pull/415
+
+{
+  type: "input",
+  inputType: "text",
+  model: "name",
+  label: "Name",
+  attributes: {
+    wrapper: { "data-toggle": "collapse" },
+    input: { "data-toggle": "tooltip", "title": "Some custom tooltip title" },
+    label: { "custom-attr": "custom-value" }
+  }
+}
+
+https://github.com/vue-generators/vue-form-generator/issues/226
+

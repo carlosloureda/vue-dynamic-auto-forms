@@ -73,11 +73,19 @@ export default {
             {
               // 🐱‍💻 fieldClasses no aparecian en la documentación, ni tampoco el hack del type :(
               type:"submit",
+              id: "submit_3",
+              buttonText:"Prev",              
+              fieldClasses: 'btn btn-secondary' // no se porque hace falta :(
+            },
+            {
+              // 🐱‍💻 fieldClasses no aparecian en la documentación, ni tampoco el hack del type :(
+              type:"submit",
               id: "submit_2",
               buttonText:"Next",
               onSubmit:this.onSubmit,
               fieldClasses: 'btn btn-primary' // no se porque hace falta :(
-            }            
+            },
+                        
           ]
         },
       },

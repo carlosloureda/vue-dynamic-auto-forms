@@ -82,10 +82,17 @@ export default {
               placeholder: "CVC"
             },
             {
+              // 🐱‍💻 fieldClasses no aparecian en la documentación, ni tampoco el hack del type :(
+              type:"submit",
+              id: "submit_3",
+              buttonText:"Prev",              
+              fieldClasses: 'btn btn-secondary' // no se porque hace falta :(
+            },
+            {
              // 🐱‍💻 fieldClasses no aparecian en la documentación, ni tampoco el hack del type :(
               type:"submit",
               id: "asdasd",
-              buttonText:"Next",
+              buttonText:"Submit",
               onSubmit:this.onSubmit,
               fieldClasses: 'btn btn-primary' // no se porque hace falta :(
             }            

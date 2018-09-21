@@ -34,7 +34,7 @@ export const cardData = {
         type: "input",
         inputType: "text",
         label: "Card Number",
-        model: "email"
+        model: "number"
       },
       {
         //TODO: who to pass filters?

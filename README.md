@@ -2,9 +2,9 @@
 
 > A Vue.js project for creating forms from a schema using the library [vue-form-generator](https://github.com/vue-generators/vue-form-generator/).
 > This example takes some fake models that have inside them the model per se and
-> the schema we want to use for the auto-generated form. In the main view we shaw
-> one button for each model, when a model a modal is opened with the form for that
-> model dynamically.
+> the schema we want to use for the auto-generated form. In the main view we see
+> one button for each model, when a model is selected a modal is opened with the form for that
+> model, everything happening dynamically.
 
 ![Example video](/src/assets/auto-forms.gif?raw=true "Example video")
 

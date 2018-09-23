@@ -17,6 +17,8 @@ yarn install
 # serve with hot reload at localhost:8080
 yarn run dev
 
+# if you need to run it con Cloud9: yarn run dev-c9
+
 # build for production with minification
 yarn run build
 ```
